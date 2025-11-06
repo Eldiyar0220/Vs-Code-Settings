@@ -1,0 +1,376 @@
+{
+    "editor.codeActionsOnSave": {
+        "dart.previewLsp": "always",
+        "source.fixAll": "always",
+        "source.organizeImports": "always",
+        "quickfix.add.required": "always",
+        "quickfix.add.required.multi": "always",
+        "quickfix.create.constructorForFinalFields": "always"
+    },
+    "dart.analysisExcludedFolders": [
+        "**/deprecated/"
+    ],
+    "[dart]": {
+        "editor.formatOnType": true,
+        "editor.formatOnSave": true,
+        "editor.rulers": [
+            0
+        ],
+        "editor.selectionHighlight": true,
+        "editor.suggest.snippetsPreventQuickSuggestions": true,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "off",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#141212",
+        "statusBar.debuggingBackground": "#141212",
+        "statusBar.border": "#1f1c1c",
+        "editor.background": "#1c1919",
+        "editor.findMatchHighlightBorder": "#aaabae65",
+        "editor.findMatchHighlightBackground": "#8380809e",
+        "editorBracketMatch.border": "#aaaaaa",
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.renderWhitespace": "none",
+    "editor.fontSize": 14,
+    "dart.maxCompletionItems": 100000,
+    "dart.flutterSdkPath": "/Users/admin/flutter_sdk/flutter/bin",
+    "workbench.editorAssociations": {
+        "*.html": "default",
+        "*.pdf": "default"
+    },
+    "gitlens.defaultTimeFormat": null,
+    // "dart.flutterHotReloadOnSave": "never", //
+    "files.autoSaveDelay": 500,
+    "editor.minimap.enabled": true,
+    "dart.debugSdkLibraries": true,
+    "grunt.autoDetect": "on",
+    "jake.autoDetect": "on",
+    "gulp.autoDetect": "on",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "dart.debugExternalPackageLibraries": true,
+    "cSpell.userWords": [
+        "объекта",
+        "обычный",
+        "позволяет",
+        "разные",
+        "экземпляр",
+        "bookit",
+        "Eldiyar",
+        "Iherit",
+        "Interactor",
+        "megapay",
+        "msisidn",
+        "ressemble",
+        "stagging",
+        "unfocus",
+        "usecase"
+    ],
+    "editor.formatOnSave": true,
+    "bloc.newBlocTemplate.useSealedClasses": false,
+    "bloc.newCubitTemplate.type": "freezed",
+    "window.commandCenter": true,
+    "task.problemMatchers.neverPrompt": {
+        "shell": true
+    },
+    "dart.showTodos": true,
+    "dart.promptToRunIfErrors": true,
+    "workbench.iconTheme": "theme",
+    "bloc.newBlocTemplate.type": "freezed",
+    "SimplerFlutterGenerator.stateWidget": "StateFullWidget",
+    "SimplerFlutterGenerator.createStateWidget": true,
+    // "SimplerFlutterSnippets.TweenBuilder": true,
+    // "SimplerFlutterSnippets.WrapperOnMenu": "show",
+    // "SimplerFlutterSnippets.StreamBuilder": true,
+    // "SimplerFlutterSnippets.AnimatedBuilder": true,
+    // "SimplerFlutterSnippets.SingleChildScrollViewBuilder": true,
+    "SimplerFlutterTasks.easyLocalizationsIcon": "show",
+    "SimplerFlutterTasks.createNewTerminal": false,
+    "SimplerFlutterTasks.treeViewCopyText": false,
+    "SimplerFlutterTasks.flutterCleanIcon": "show",
+    "SimplerFlutterTasks.iosIcon": "show",
+    "SimplerFlutterTasks.ipaIcon": "show",
+    "SimplerFlutterTasks.flutterPubGetIcon": "hide",
+    "SimplerFlutterTasks.colorized": true,
+    "SimplerFlutterTasks.openIosIcon": "hide",
+    "SimplerFlutterTasks.installIcon": "show",
+    "SimplerFlutterTasks.buildRunnerCategoryExpandable": false,
+    "SimplerFlutterTasks.flutterCategoryExpandable": false,
+    "SimplerFlutterTasks.androidCategoryExpandable": false,
+    "SimplerFlutterTasks.gitCategoryExpandable": false,
+    "SimplerFlutterTasks.iosCategoryExpandable": false,
+    "SimplerFlutterTasks.openIpaIcon": "hide",
+    "SimplerFlutterTasks.spiderBuildIcon": "hide",
+    "SimplerFlutterTasks.smallApkIcon": "hide",
+    "SimplerFlutterTasks.gitPullIcon": "show",
+    "SimplerFlutterTasks.openApkIcon": "show",
+    "SimplerFlutterTasks.buildRunnerIcon": "show",
+    "SimplerFlutterTasks.buildApkIcon": "hide",
+    // "SimplerFlutterSnippets.ValueListenableBuilder": true,
+    // "SimplerFlutterSnippets.StateFullBuilder": false,
+    // "SimplerFlutterSnippets.FutureBuilder": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "editor.accessibilitySupport": "off",
+    "SimplerFlutterTasks.flutterFlavor": "hide",
+    "chatgpt.lang": "en",
+    "SimplerFlutterSnippets.WrapperStack": true,
+    "SimplerFlutterSnippets.CubitBuilder": true,
+    "SimplerFlutterSnippets.CubitConsumer": true,
+    "SimplerFlutterSnippets.StateFullBuilder": true,
+    "SimplerFlutterSnippets.FutureBuilder": true,
+    "SimplerFlutterSnippets.removeThisWidget": true,
+    "SimplerFlutterSnippets.AnimatedBuilder": true,
+    "SimplerFlutterSnippets.SingleChildScrollViewBuilder": true,
+    "SimplerFlutterSnippets.ValueListenableBuilder": true,
+    "SimplerFlutterSnippets.WrapperOnMenu": "show",
+    "SimplerFlutterSnippets.selectedImport": true,
+    "SimplerFlutterSnippets.autoFix": false,
+    "SimplerFlutterSnippets.FlutterImports": {
+        "targetFileTypes": [
+            "dart"
+        ],
+        "importMappings": [
+            {
+                "imports": [
+                    "import 'package:megapay/core/components/helpers/mega_scaler.dart';"
+                ],
+                "keys": [
+                    "customText",
+                    "CustomText"
+                ]
+            },
+            {
+                "imports": [
+                    "import 'package:freezed_annotation/freezed_annotation.dart';"
+                ],
+                "keys": [
+                    "freezed"
+                ]
+            },
+            {
+                "imports": [
+                    "import 'package:megapay/core/components/mega_circular_loadings/mega_overlay_loading.dart';",
+                    "import 'package:megapay/core/components/helpers/exception_worker.dart';"
+                ],
+                "keys": [
+                    "MegaOverlayLoading",
+                    "ExceptionWorker"
+                ]
+            },
+            {
+                "imports": [
+                    "import 'package:megapay/core/api/dio_generator.dart';"
+                ],
+                "keys": [
+                    "DioGenerator"
+                ]
+            },
+            {
+                "imports": [
+                    "import 'package:megapay/app/theme/app_theme.dart';"
+                ],
+                "keys": [
+                    "AppThemeHelper"
+                ]
+            },
+            {
+                "imports": [
+                    "import 'package:flutter/material.dart';"
+                ],
+                "keys": [
+                    "StatefulWidget",
+                    "StatelessWidget"
+                ]
+            }
+        ]
+    },
+    "SimplerFlutterSnippets.StreamBuilder": true,
+    "SimplerFlutterSnippets.TweenBuilder": true,
+    "editor.codeLens": true,
+    "SimplerFlutterGenerator.enableCodeLens": true,
+    "SimplerFlutterTasks.customCommandsList": [
+        // {
+        //     "label": "sdfsdf",
+        //     "command": "flutter clean",
+        //     "enabled": true,
+        //     "color": "#00bbff",
+        //     "position": "left",
+        //     "warningDialog": false,
+        //     "startAfter": [
+        //         "pub get",
+        //         "git status"
+        //     ]
+        // },
+        // {
+        //     "label": "pub get",
+        //     "command": "flutter pub get",
+        //     "enabled": true,
+        //     "color": "#00bbff",
+        //     "position": "left",
+        //     "warningDialog": false,
+        // },
+        // {
+        //     "label": "git status",
+        //     "command": "git status",
+        //     "enabled": true,
+        //     "color": "#00bbff",
+        //     "position": "left",
+        //     "warningDialog": false,
+        // },
+        // {
+        //     "label": "Injectable",
+        //     "command": "dart run build_runner build --delete-conflicting-outputs --build-filter 'lib/app/config/injectable/*.dart'",
+        //     "enabled": true,
+        //     "color": "#ff3cff",
+        //     "position": "left"
+        // },
+        {
+            "label": "Auto Route",
+            "command": "dart run build_runner build --delete-conflicting-outputs --build-filter 'lib/app/router/*.dart'",
+            "enabled": true,
+            "color": "#00bbff",
+            "position": "left",
+            "warningDialog": false,
+            "startAfter": [
+                "Injectable",
+                "1 New Branch"
+            ]
+        },
+        {
+            "label": "1 New Branch",
+            "command": "git checkout -b",
+            "enabled": true,
+            "color": "#FFFF00",
+            "position": "left",
+            "warningDialog": false,
+            "askerForCommand": true
+        },
+        {
+            "label": "2 Commit",
+            "command": "git add . && git commit -m ",
+            "enabled": true,
+            "color": "#FFFF00",
+            "position": "left",
+            "warningDialog": false,
+            "askerForCommand": false
+        },
+        {
+            "label": "3 Rebase",
+            "command": "git pull --rebase origin DEV",
+            "enabled": true,
+            "color": "#FFFF00",
+            "position": "left",
+            "warningDialog": true,
+            "askerForCommand": false
+        },
+        {
+            "label": "4 Push",
+            "command": "git push --set-upstream origin",
+            "enabled": true,
+            "color": "#FFFF00",
+            "position": "left",
+            "warningDialog": true,
+            "askerForCommand": false
+        },
+        {
+            "label": "5 Go to DEV",
+            "command": "git checkout DEV && git pull",
+            "enabled": true,
+            "color": "#FFFF00",
+            "position": "left",
+            "warningDialog": true,
+            "askerForCommand": false
+        },
+        {
+            "label": "Go to new",
+            "command": "git checkout redesign_pay && git pull",
+            // "command": "osascript -e 'tell application \"System Events\" to key code 96'",
+            "enabled": true,
+            "color": "#00ff22",
+            "position": "left",
+            // "warningDialog": true,
+            // "askerForCommand": false
+        },
+        {
+            "label": "Go to Слияния",
+            "command": "git checkout integrate_mega24 && git pull",
+            // "command": "osascript -e 'tell application \"System Events\" to key code 96'",
+            "enabled": true,
+            "color": "#00fff7",
+            "position": "left",
+            // "warningDialog": true,
+            // "askerForCommand": false
+        },
+        // {
+        //     "label": "Sh Command",
+        //     "command": "sh commands.sh",
+        //     "enabled": true,
+        //     "color": "#00ff11",
+        //     "position": "left"
+        // },
+    ],
+    "SimplerFlutterTasks.Flavors": {
+        "path": "lib/main",
+        "flavors": [
+            {
+                "title": "prod",
+                "package": "com.kp.megapay.kg"
+            },
+            {
+                "title": "staging",
+                "package": "com.kp.megapay.stagging"
+            },
+            {
+                "title": "dev",
+                "package": "com.kp.megapay.dev"
+            }
+        ]
+    },
+    "SimplerFlutterSnippets.customWraps": [
+        {
+            "name": "Stack custom -->",
+            "autoFormat": true,
+            "autoCopy": "",
+            "_comment": "your widget -- ${widget} -- | auto select -- ${1:listenable} -- | selection menu -- ${1|start,center|} --",
+            "body": [
+                "  Stack(",
+                "  children: [",
+                "    ${widget}",
+                "  ],",
+                ")"
+            ]
+        },
+        {
+            "name": "Value listenable -->",
+            "autoFormat": true,
+            "autoCopy": "ValueNotifier<bool> customValueX = ValueNotifier<bool>(false);",
+            "body": [
+                "ValueListenableBuilder(",
+                " valueListenable: ${1:listenable},",
+                " builder: (context, value, child) {",
+                "    return ${widget};",
+                " },",
+                ")"
+            ]
+        },
+        {
+            "name": "Column -->",
+            "autoCopy": "",
+            "autoFormat": false,
+            "body": [
+                "Column(",
+                "crossAxisAlignment: CrossAxisAlignment.${1|start,center|},",
+                "children: [",
+                "${widget}",
+                "]",
+                ")"
+            ]
+        }
+    ],
+    "geminicodeassist.project": "learnlang-6ac62",
+    "workbench.editor.enablePreview": false,
+    "files.autoSave": "afterDelay",
+}

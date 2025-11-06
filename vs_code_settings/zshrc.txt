@@ -1,0 +1,17 @@
+
+export PATH="$PATH:/Users/admin/flutter_sdk/flutter/bin"
+export LANG=en_US.UTF-8
+export PATH="$PATH:$/Users/admin/.npm-global/bin/vsce"
+# export PUB_CACHE=/Users/admin/.pub-cache
+# echo 'export PUB_CACHE=/Users/admin/.pub-cache'
+## [Completion]
+## Completion scripts setup. Remove the following line to uninstall
+[[ -f /Users/admin/.dart-cli-completion/zsh-config.zsh ]] && . /Users/admin/.dart-cli-completion/zsh-config.zsh || true
+# [/Completion]export PUB_CACHE=~/.pub-cache
+# export PUB_CACHE=~/.pub-cache
+# /Users/admin/fluter_sdk/flutter
+# alias flutter1="/Users/admin/flutter_sdk/flutter_v3_24_5/bin/flutter"
+# alias flutterStable="$PATH:/Users/admin/flutter_sdk/flutter_new_32/flutter/bin"
+alias flutter2="/Users/admin/flutter_sdk/flutter/bin/flutter"
+alias api="sudo sysctl -w net.inet.ip.ttl=65"
+export PATH="/usr/local/opt/openjdk/bin:$PATH"
