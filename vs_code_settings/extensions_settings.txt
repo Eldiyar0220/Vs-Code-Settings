@@ -1,0 +1,2 @@
+link: https://app.vssps.visualstudio.com/_signin?realm=marketplace.visualstudio.com&reply_to=https%3A%2F%2Fmarketplace.visualstudio.com%2Fmanage%2Fpublishers%2Feldiyar-dev&redirect=1&mkt=ru-RU&context=eyJodCI6MywiaGlkIjoiMjY2M2IxM2YtNTBlMy1hNjU1LWExNTktMjJmNmY0NzI1ZmFiIiwicXMiOnt9LCJyciI6IiIsInZoIjoiIiwiY3YiOiIiLCJjcyI6IiJ90&lltid=ced8e1e6-1051-4ad6-b211-e5a706822b14#ctx=eyJTaWduSW5Db29raWVEb21haW5zIjpbImh0dHBzOi8vbG9naW4ud2luZG93cy5uZXQiLCJodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20iXX01
+
